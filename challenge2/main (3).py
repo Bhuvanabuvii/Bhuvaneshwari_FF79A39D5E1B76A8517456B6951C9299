@@ -21,7 +21,7 @@ class BankAccount:
 
 
 # Create an instance of the BankAccount class
-account = BankAccount("1234567890", "Thanusri", 5000.0)
+account = BankAccount("1234567890", "Bhuvaneshwari", 5000.0)
 
 # Test deposit and withdrawal functionality
 account.display_balance()
